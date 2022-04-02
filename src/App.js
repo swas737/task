@@ -1,10 +1,8 @@
-import Card from './compnent/Card';
+import Card from './component/Card'
 import bootstrap from '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
-  return (
-    <Card />
-  );
+  return <Card />
 }
 
-export default App;
+export default App
