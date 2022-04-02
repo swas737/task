@@ -1,0 +1,15 @@
+.container{
+  background-color: aqua;
+}
+.main{
+  display: flex;
+  flex-wrap: wrap
+}
+.main-content{
+  margin: 1%;
+}
+.card-img-top{
+  height: 100%;
+   width: 100%;
+  padding:5%
+}
